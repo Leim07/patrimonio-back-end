@@ -1,0 +1,9 @@
+com\financeiro\patrimonio\controller\ControllerAdvice.class
+com\financeiro\patrimonio\model\Patrimonio$PatrimonioBuilder.class
+com\financeiro\patrimonio\controller\PatrimonioController.class
+com\financeiro\patrimonio\controller\rest\error\ApiErros.class
+com\financeiro\patrimonio\PatrimonioApplication.class
+com\financeiro\patrimonio\config\InternacionalizacaoConfig.class
+com\financeiro\patrimonio\model\Patrimonio.class
+com\financeiro\patrimonio\repository\PatrimonioRepository.class
+com\financeiro\patrimonio\config\WebConfig.class

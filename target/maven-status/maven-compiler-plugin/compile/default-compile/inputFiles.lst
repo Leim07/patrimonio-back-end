@@ -1,0 +1,16 @@
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\PatrimonioApplication.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\config\ResourceServerConfig.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\config\AuthorizationServerConfig.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\config\InternacionalizacaoConfig.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\repository\UsuarioRepository.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\controller\ControllerAdvice.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\exception\UsuarioCadastradoException.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\service\UsuarioService.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\controller\rest\error\ApiErros.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\model\Patrimonio.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\model\Usuario.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\config\WebConfig.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\controller\PatrimonioController.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\controller\UsuarioController.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\repository\PatrimonioRepository.java
+F:\Projetos\workspace\acompanhamento_financeiro\patrimonio-back-end\src\main\java\com\financeiro\patrimonio\config\SecurityConfig.java
